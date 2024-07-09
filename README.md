@@ -14,9 +14,12 @@ To use this calculator take the following steps:
 
 *Note* For your convenience a main function exists, and you can simply add, or modify the current values for borrowedAmount, yearArray, and rateArray and run the function.
 
-# 🚙 Under the hood:
+# Under the hood: 🚙☁️☁️☁️
 
-This calculator utilizes a basic simple interest calculation : ![image](https://github.com/Reidlearnstocode/CSCE489_Project0/assets/169181658/0b14f360-8ad1-4988-acc6-e6eb9e0c07d9)
+This calculator utilizes a basic simple interest calculation:
+
+![image](https://github.com/Reidlearnstocode/CSCE489_Project0/assets/169181658/0b14f360-8ad1-4988-acc6-e6eb9e0c07d9)
+
 Given the final amount, "A" (borrowed amount plus total interest), it then calculates a monthly payment by dividing the final amount "A" by the number of months in the repayment period.
 
 See comments in the program for additional information.
