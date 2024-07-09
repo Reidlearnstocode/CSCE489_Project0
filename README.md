@@ -16,7 +16,7 @@ To use this calculator take the following steps:
 
 # Under the hood: 🚙☁️☁️☁️
 
-This calculator utilizes a basic simple interest calculation:
+This calculator utilizes a standard simple interest calculation:
 
 ![image](https://github.com/Reidlearnstocode/CSCE489_Project0/assets/169181658/0b14f360-8ad1-4988-acc6-e6eb9e0c07d9)
 
